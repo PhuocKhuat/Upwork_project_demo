@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Meat and sausage pizza",
+    "price": "6$",
+    "image": "/images/meet-and-sausage-pizza.jpg",
+    "description": "",
+    "star": 3
+  },
+  {
+    "id": 2,
+    "name": "Mixed pizza",
+    "price": "8$",
+    "image": "/images/mixed-pizza.jpg",
+    "description": "",
+    "star": 5
+  },
+  {
+    "id": 3,
+    "name": "Tuna pizza",
+    "price": "10$",
+    "image": "/images/tuna-pizza.jpg",
+    "description": "",
+    "star": 4
+  },
+  {
+    "id": 4,
+    "name": "Hawaii pizza",
+    "price": "11$",
+    "image": "/images/hawaii-pizza.jpg",
+    "description": "",
+    "star": 5
+  }
+]
